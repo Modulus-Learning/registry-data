@@ -1,0 +1,18 @@
+{
+  "installations": [
+    {
+      "id": 1,
+      "site-name": "Modulus at OSU",
+      "site-url": "https://modulus-learning.org",
+      "organization": "Ohio State University",
+      "contact": "alice@example.com"
+    },
+    {
+      "id": 2,
+      "site-name": "Modulus at FSU",
+      "site-url": "https://modulus-learning.org",
+      "organization": "Florida State University",
+      "contact": "bob@example.com"
+    }
+  ]
+}
