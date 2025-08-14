@@ -13,6 +13,13 @@
       "site-url": "https://modulus-learning.org",
       "organization": "Florida State University",
       "contact": "bob@example.com"
+    },
+    {
+      "id": 3,
+      "site-name": "Modulus development",
+      "site-url": "https://modulus.infonomic.local:3000",
+      "organization": "Infonomic",
+      "contact": "carol@example.com"
     }
   ]
 }
