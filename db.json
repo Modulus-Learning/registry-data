@@ -3,14 +3,14 @@
     {
       "id": 1,
       "site-name": "Modulus at OSU",
-      "site-url": "https://modulus-learning.org",
+      "site-url": "https://app.modulus-learning.org",
       "organization": "Ohio State University",
       "contact": "alice@example.com"
     },
     {
       "id": 2,
       "site-name": "Modulus at UF",
-      "site-url": "https://modulus-learning.org",
+      "site-url": "https://app.modulus-learning.org",
       "organization": "University of Florida",
       "contact": "bob@example.com"
     },
