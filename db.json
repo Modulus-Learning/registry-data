@@ -20,6 +20,13 @@
       "site-url": "https://modulus.infonomic.local:3000",
       "organization": "Infonomic",
       "contact": "carol@example.com"
+    },
+    {
+      "id": 4,
+      "site-name": "Modulus development (localhost)",
+      "site-url": "http://localhost:3000",
+      "organization": "Infonomic",
+      "contact": "anthony@infonomic.io"
     }
   ]
 }
